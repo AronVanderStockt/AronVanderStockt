@@ -11,7 +11,7 @@ profitz academy: Als mede-oprichter en ontwikkelaar heb ik bijgedragen aan het b
 
 Contact
 LinkedIn: www.linkedin.com/in/aron-van-der-stockt-b396542b5
-E-mail: aron@vanderstockt29122003@gmail.com
+E-mail: aron.vanderstockt29122003@gmail.com
 Voel je vrij om contact met me op te nemen voor samenwerkingen of interessante projecten!
 
 
