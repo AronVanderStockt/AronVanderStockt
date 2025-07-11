@@ -1,48 +1,43 @@
-Aron Van der Stockt
-Over mij
-Ik ben Aron Van der Stockt, een gepassioneerde 20-jarige programmeur en forex-handelaar uit [plaatsnaam]. Mijn reis begon met programmeren op jonge leeftijd en heeft me geleid naar een diepgaande interesse in zowel softwareontwikkeling als financiële markten. Mijn doel is om voortdurend te groeien en te leren in deze twee boeiende gebieden.
+# Over mij  
+Ik ben Aron Van der Stockt, een gepassioneerde 21-jarige programmeur en forex-handelaar uit Denderwindeke. Sinds jonge leeftijd ben ik geboeid door programmeren, wat me gebracht heeft tot een diepe interesse in softwareontwikkeling en financiële markten. Mijn doel is om continu te groeien in beide domeinen.
 
-Bijdragen
-eindopdracht 2023: Als hoofdontwikkelaar heb ik een volledig nieuwe backend-architectuur ontworpen en geïmplementeerd, waardoor de prestaties werden verbeterd en de schaalbaarheid werd vergroot.
+# Bijdragen  
+- **Eindopdracht 2023:** Als hoofdontwikkelaar heb ik een volledig nieuwe backend-architectuur ontworpen en geïmplementeerd, wat resulteerde in betere prestaties en verbeterde schaalbaarheid.  
+- **Project Profitz Academy:** Ontwikkelde een geavanceerde handelsbot die machine learning-algoritmen gebruikt om forexmarktpatronen te analyseren en winstgevende handelsbeslissingen te nemen.  
+- **Profitz Academy:** Mede-oprichter en ontwikkelaar van een educatief platform voor beginnende forex-handelaren, dat wereldwijd toegang biedt tot waardevolle kennis en middelen.
 
-Project Profitz academy: Ik heb een geavanceerde handelsbot ontwikkeld die gebruikmaakt van machine learning-algoritmen om forex-marktpatronen te analyseren en winstgevende handelsbeslissingen te nemen.
+# Contact  
+LinkedIn: [www.linkedin.com/in/aron-van-der-stockt-b396542b5](https://www.linkedin.com/in/aron-van-der-stockt-b396542b5)  
+E-mail: aron.vanderstockt29122003@gmail.com  
 
-profitz academy: Als mede-oprichter en ontwikkelaar heb ik bijgedragen aan het bouwen van een educatief platform voor beginners in forex-handel, waardoor mensen over de hele wereld toegang hebben tot waardevolle kennis en middelen.
+Voel je vrij om contact op te nemen voor samenwerkingen of interessante projecten!
 
-Contact
-LinkedIn: www.linkedin.com/in/aron-van-der-stockt-b396542b5
-E-mail: aron.vanderstockt29122003@gmail.com
-Voel je vrij om contact met me op te nemen voor samenwerkingen of interessante projecten!
+---
 
-## Technologies & Tools
+# Technologies & Tools
 
-### Programmeertalen
-- Python
-- JavaScript
-- Java
-- C++
-- HTML/CSS
+### Programmeertalen  
+- Python  
+- JavaScript  
+- Java  
+- C++  
+- HTML/CSS  
 
-### Besturingssystemen
-- Windows
-- macOS
-- Linux (Ubuntu, CentOS)
+### Besturingssystemen  
+- Windows  
+- macOS  
+- Linux (Ubuntu, CentOS)  
 
-### Tools
-- Git
-- Visual Studio Code
-- Sublime Text
-- IntelliJ IDEA
-- Jupyter Notebook
-- Docker
-- PostgreSQL
-- MySQL
-- TensorFlow
-- scikit-learn
-- MetaTrader 4/5
-- TradingView
-
-
-
-
-
+### Tools  
+- Git  
+- Visual Studio Code  
+- Sublime Text  
+- IntelliJ IDEA  
+- Jupyter Notebook  
+- Docker  
+- PostgreSQL  
+- MySQL  
+- TensorFlow  
+- scikit-learn  
+- MetaTrader 4/5  
+- TradingView  
